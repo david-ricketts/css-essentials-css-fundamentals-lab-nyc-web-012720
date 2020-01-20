@@ -35,6 +35,9 @@ figcaption {
 #details {
   display: block;
 }
+p {
+  align-content: center;
+}
 
 
 
